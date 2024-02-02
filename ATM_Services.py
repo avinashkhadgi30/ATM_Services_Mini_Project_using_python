@@ -11,23 +11,23 @@ while True:
         pin = int(input("Please enterd your 4 digit pin :-"))
         if pin == 1234:
             balance = 25000
-            print(" Welcome \n name:-avinash khadgi\n you have enterd correct pin")
+            print(" Welcome \n name:-Rohit\n you have enterd correct pin")
         
         elif pin == 2345:
             balance = 30000
-            print(" Welcome \n name:-shraddha latkar\n you have enterd correct pin")
+            print(" Welcome \n name:- Rahul\n you have enterd correct pin")
     
         elif pin == 3456:
             balance = 40000
-            print(" Welcome \n name:-vipul margade\n you have enterd correct pin")
+            print(" Welcome \n name:- Ramesh\n you have enterd correct pin")
     
         elif pin == 4567:
             balance = 50000
-            print(" Welcome \n name:-ruchika shede\n you have enterd correct pin")
+            print(" Welcome \n name:-Suresh\n you have enterd correct pin")
     
         elif pin == 5678:
             balance = 60000
-            print(" Welcome \n name:-ankush nag\n you have enterd correct pin") 
+            print(" Welcome \n name:- Anil\n you have enterd correct pin") 
             
         else:
             print("sorry You have enterd wrong pin! please try again")
